@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Arturs
+### Hi there 👋, my name is Alice Corry
 #### I am a 3rd year Creative Computing student
 ![I am a 3rd year Creative Computing student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
