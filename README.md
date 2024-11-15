@@ -6,6 +6,7 @@ I'm a **Final Year Creative Computing Student** with a passion for blending tech
 - **Software Development**: From web apps to mobile solutions, I enjoy crafting functional, user-friendly software.
 - **Creative Computing**: Combining creativity with technology—whether it's interactive media, AI, or generative design.
 - **Problem-Solving**: Leveraging code to create solutions for real-world problems and challenges.
+- **Data Visualization & Analysis**: Transforming complex data into visually engaging insights and actionable information.
 
 ### 📚 Skills:
 - **Languages**: JavaScript, PHP, HTML/CSS, SQL, Python
