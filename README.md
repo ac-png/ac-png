@@ -8,7 +8,7 @@ I'm a **Final Year Creative Computing Student** with a passion for blending tech
 - **Problem-Solving**: Leveraging code to create solutions for real-world problems and challenges.
 
 ### 📚 Skills:
-- **Languages**: Python, JavaScript, PHP HTML/CSS, SQL
+- **Languages**: JavaScript, PHP, HTML/CSS, SQL, Python
 - **Technologies**: React, Node.js, React Native, Laravel
 - **Tools**: Git, Docker, VS Code, Jupyter, Adobe Suite
 - **Other**: UI/UX Design, Machine Learning, Data Visualization, Web Development
