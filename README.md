@@ -14,12 +14,6 @@ I'm a **Final Year Creative Computing Student** with a passion for blending tech
 - **Tools**: Git, Docker, VS Code, Jupyter, Adobe Suite
 - **Other**: UI/UX Design, Machine Learning, Data Visualization & Analysis, Web Development
 
-### 🎓 Currently Learning:
-
-### 🌱 I'm currently working on:
-- Building an interactive mobile app using **React Native & Node.js**
-- Exploring **AI projects**
-
 ### 🚀 What I'm Looking For:
 I'm open to **internships**, **graduate programs**, and **entry-level roles** where I can apply my skills in coding, creativity, and problem-solving. If you're looking for a passionate, adaptable, and eager-to-learn developer, let's connect!
 
