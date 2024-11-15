@@ -12,7 +12,7 @@ I'm a **Final Year Creative Computing Student** with a passion for blending tech
 - **Languages**: JavaScript, PHP, HTML/CSS, SQL, Python
 - **Technologies**: React, Node.js, React Native, Laravel
 - **Tools**: Git, Docker, VS Code, Jupyter, Adobe Suite
-- **Other**: UI/UX Design, Machine Learning, Data Visualization, Web Development
+- **Other**: UI/UX Design, Machine Learning, Data Visualization & Analysis, Web Development
 
 ### 🎓 Currently Learning:
 
