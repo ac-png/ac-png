@@ -38,18 +38,10 @@ I am a final year **Creative Computing student** focusing on **data analysis** a
 
 ---
 
-## 🌱 Currently Learning
-
-- **Machine Learning** for more advanced analytics
-- **Data Engineering** and working with large datasets
-- Expanding knowledge of **Cloud Analytics Platforms**
-
----
-
 ## 📬 Contact Me
 
 - **Linktree**: [https://linktr.ee/alicecorry](https://linktr.ee/alicecorry)  
 
 ---
 
-Feel free to check out my projects, explore my repositories, or contact me if you're interested in collaborating or discussing data-driven solutions!
+Feel free to check out my projects, explore my repositories, or contact me if you want to collaborate or discuss data-driven solutions!
