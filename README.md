@@ -1,21 +1,55 @@
-# Hi, I'm Alice Corry!
+# Hi, I'm Alice – **Aspiring Data & Business Analyst**
 
-I'm a **Final Year Creative Computing Student** with a passion for blending technology and creativity. Currently, I'm seeking **internships**, **graduate programs**, and **entry-level roles** in the tech and creative sectors. I'm also exploring exciting **postgraduate opportunities** to further deepen my knowledge and skills.
+I am a final year **Creative Computing student** focusing on **data analysis** and **business intelligence**. I use **Python**, **R**, **SQL**, and **Tableau** to analyze data, create reports, and help businesses make better decisions. I’m passionate about turning data into valuable insights that can drive growth.
 
-### 💡 What I Do:
-- **Software Development**: I enjoy crafting functional, user-friendly software, from web apps to mobile solutions.
-- **Creative Computing**: Combining creativity with technology, whether interactive media, AI, or generative design.
-- **Problem-Solving**: Leveraging code to create solutions for real-world problems and challenges.
-- **Data Visualization & Analysis**: Transforming complex data into visually engaging insights and actionable information.
+📍 **Dublin, Ireland**  
+🔗 [My Linktree](https://linktr.ee/alicecorry)  
+🎓 **Creative Computing Student** at Dún Laoghaire Institute of Art, Design, and Technology  
+🎯 Looking for **Business Analyst** or **Data Analyst** roles | Open to **Internships**, **Graduate Programs**, and **Postgrad Opportunities**
 
-### 📚 Skills:
-- **Languages**: JavaScript, PHP, HTML/CSS, SQL, Python, C#
-- **Technologies**: React, Node.js, React Native, Laravel, ASP.NET MVC
-- **Tools**: Git, Docker, VS Code, Jupyter, Adobe Suite, Rider
-- **Other**: UI/UX Design, Machine Learning, Data Visualization & Analysis, Web Development
+---
 
-### 🚀 What I'm Looking For:
-I'm open to **internships**, **graduate programs**, and **entry-level roles** where I can apply my coding, creativity, and problem-solving skills. If you're looking for a passionate, adaptable, and eager-to-learn developer, let's connect!
+## 🚀 Skills
 
-### 📫 Let's Connect:
-Feel free to reach out to me via [LinkedIn](linkedin.com/in/alice-corry) or [Email](alicecorry@icloud.com). I'd love to hear about opportunities and discuss potential collaborations.
+### **Data Analysis & Reporting**
+- **Languages**: Python, R, SQL  
+- **Tools**: Tableau, Power BI, Excel, Matplotlib  
+- **Skills**: Data cleaning, Data visualization, Trend analysis, Reporting, Predictive modelling
+
+### **Business Analysis**
+- **Skills**: Understanding business trends, Analyzing key metrics, Sales forecasting, Market research  
+- **Methodologies**: Agile, Scrum
+
+---
+
+## 📂 Featured Projects
+
+### **Electricity Generation in Ireland - Data Visualization & Analysis**  
+*Tech: **Tableau**, **R**, **Excel***
+- Visualized electricity generation data to identify trends and help decision-makers in the energy sector.
+
+### **Business Analytics for Alexa Ltd.**  
+*Tech: **Python**, **Matplotlib**, **Seaborn***
+- Analyzed sales and customer data to help a bike retailer improve sales and marketing strategies.
+
+### **IADT College Database System**  
+*Tech: **MySQL**, **SQL***
+- Built a relational database to manage student and course data for IADT College and created reports based on that data.
+
+---
+
+## 🌱 Currently Learning
+
+- **Machine Learning** for more advanced analytics
+- **Data Engineering** and working with large datasets
+- Expanding knowledge of **Cloud Analytics Platforms**
+
+---
+
+## 📬 Contact Me
+
+- **Linktree**: [https://linktr.ee/alicecorry](https://linktr.ee/alicecorry)  
+
+---
+
+Feel free to check out my projects, explore my repositories, or contact me if you're interested in collaborating or discussing data-driven solutions!
