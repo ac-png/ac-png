@@ -12,24 +12,24 @@ I am a final year **Creative Computing student** focusing on **data analysis** a
 
 ## 🚀 Skills
 
-### Data Analytics & Reporting
+### 📊 Data Analytics & Reporting
 - **Languages:** Python, R, SQL
 - **Technologies & Tools:** Tableau, Excel, Plotly, Matplotlib, Jupyter Notebook, RStudio, Visual Studio Code
 - **Skills:** Data analysis, Reporting, Data visualization, Predictive modeling, Cleaning & organizing data
 
-### Business Analysis
+### 📈 Business Analysis
 - **Skills:** Identifying trends, Reporting on key metrics, Sales forecasting, Market research
 - **Methodologies:** Agile, Scrum
 
-### Development & Programming
+### 🛠️ Development & Programming
 - **Languages:** HTML, CSS, JavaScript, PHP, Processing (Simplified Java), C#
 - **Frameworks & Libraries:** Bootstrap, React.js, Laravel, ASP.NET Core, Express.js
 
-### Project Management
+### ☑️ Project Management
 - **Tools:** Trello, Notion, Miro
 - **Skills:** Managing tasks, Working in teams, Organizing projects
 
-### Communication & Interpersonal Skills
+### 🤝 Communication & Interpersonal Skills
 - **Collaboration:** Teamwork, Mentoring, Leadership
 - **Communication:** Presentation, Problem Solving
 - **Customer Interaction:** Customer Service
