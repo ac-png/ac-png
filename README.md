@@ -1,4 +1,5 @@
-# Hi, I'm Alice – **Aspiring Data & Business Analyst**
+# Hi, I'm Alice Corry
+**Final Year Creative Computing Student | Seeking Business Analyst or Data Analyst roles | Open to Internships, Graduate Programs, and Postgrad Opportunities**
 
 I am a final year **Creative Computing student** focusing on **data analysis** and **business intelligence**. I use **Python**, **R**, **SQL**, and **Tableau** to analyze data, create reports, and help businesses make better decisions. I’m passionate about turning data into valuable insights that can drive growth.
 
@@ -26,22 +27,15 @@ I am a final year **Creative Computing student** focusing on **data analysis** a
 
 ### **Electricity Generation in Ireland - Data Visualization & Analysis**  
 *Tech: **Tableau**, **R**, **Excel***
-- Visualized electricity generation data to identify trends and help decision-makers in the energy sector.
+- Developed charts and dashboards on electricity generation from various fuel sources.
+- Identified trends to improve decision-making in the energy sector.
 
 ### **Business Analytics for Alexa Ltd.**  
 *Tech: **Python**, **Matplotlib**, **Seaborn***
-- Analyzed sales and customer data to help a bike retailer improve sales and marketing strategies.
+- Analyzed sales data to predict customer behaviour and future buying patterns.
+- Created models to optimize sales and marketing strategies.
 
-### **IADT College Database System**  
-*Tech: **MySQL**, **SQL***
-- Built a relational database to manage student and course data for IADT College and created reports based on that data.
-
----
-
-## 📬 Contact Me
-
-- **Linktree**: [https://linktr.ee/alicecorry](https://linktr.ee/alicecorry)  
-
----
-
-Feel free to check out my projects, explore my repositories, or contact me if you want to collaborate or discuss data-driven solutions!
+### **Diabetes Risk Prediction with Machine Learning**
+*Tech: **Python**, **Scikit-Learn**, **Seaborn***, **Matplotlib***, **Kaggle***, **Pandas***
+- Predicted diabetes risk using classification models (Logistic Regression, Decision Trees).
+- Cleaned and prepared data and visualized model performance.
