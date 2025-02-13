@@ -1,54 +1,33 @@
 # Hi, I'm Alice Corry
-**Final Year Creative Computing Student | Seeking Business Analyst or Data Analyst roles | Open to Internships, Graduate Programs, and Postgrad Opportunities**
+**Final Year Creative Computing Student | Aspiring Data Analyst & Space Enthusiast | Passionate about Technology, Data, and Space Science**
 
-I am a final year **Creative Computing student** focusing on **data analysis** and **business intelligence**. I use **Python**, **R**, **SQL**, and **Tableau** to analyze data, create reports, and help businesses make better decisions. I’m passionate about turning data into valuable insights that can drive growth.
+I am a **final-year Creative Computing student** with strong **data analysis**, **programming**, and **software development**. I am experienced in using tools like **Python**, **R**, **SQL**, **Tableau**, and **Matplotlib** to solve problems and generate meaningful insights from data. While my academic focus has primarily been on computing, I have a deep personal interest in **space science**, **astrophysics**, and **astronomy**. I am excited to apply my technical expertise to **data science**, **space research**, or **software development** roles.
 
 📍 **Dublin, Ireland**  
 🔗 [My Linktree](https://linktr.ee/alicecorry)  
 🎓 **Creative Computing Student** at Dún Laoghaire Institute of Art, Design, and Technology  
-🎯 Looking for **Business Analyst** or **Data Analyst** roles | Open to **Internships**, **Graduate Programs**, and **Postgrad Opportunities**
+🎯 **Seeking Opportunities in:** Data Science, Software Development, or Space Science
 
 ---
 
 ## 🚀 Skills
 
-### 📊 Data Analytics & Reporting
-- **Languages:** Python, R, SQL
-- **Technologies & Tools:** Tableau, Excel, Plotly, Matplotlib, Jupyter Notebook, RStudio, Visual Studio Code
-- **Skills:** Data analysis, Reporting, Data visualization, Predictive modeling, Cleaning & organizing data
+### 📊 Data & Software Skills
+- **Languages:** Python, R, SQL, JavaScript, C#
+- **Data Tools:** Tableau, Excel, Matplotlib, Seaborn
+- **Web Development:** React.js, Laravel, ASP.NET Core
+- **Machine Learning:** Scikit-Learn, Pandas
+- **Project Management:** Trello, Notion, Agile
 
-### 📈 Business Analysis
-- **Skills:** Identifying trends, Reporting on key metrics, Sales forecasting, Market research
-- **Methodologies:** Agile, Scrum
-
-### 🛠️ Development & Programming
-- **Languages:** HTML, CSS, JavaScript, PHP, Processing (Simplified Java), C#
-- **Frameworks & Libraries:** Bootstrap, React.js, Laravel, ASP.NET Core, Express.js
-
-### ☑️ Project Management
-- **Tools:** Trello, Notion, Miro
-- **Skills:** Managing tasks, Working in teams, Organizing projects
-
-### 🤝 Communication & Interpersonal Skills
-- **Collaboration:** Teamwork, Mentoring, Leadership
-- **Communication:** Presentation, Problem Solving
-- **Customer Interaction:** Customer Service
+### 🌌 Space Science & Physics Interest
+- **Astronomy:** Basic knowledge of celestial bodies, stars, and galaxies.
+- **Physics:** Leaving Cert Physics knowledge, with a strong interest in astrophysics and space exploration.
+- **Scientific Tools:** Python (SciPy, NumPy), MATLAB (for simulations)
 
 ---
 
-## 📂 Featured Projects
+## 🌟 Interests
 
-### **Electricity Generation in Ireland - Data Visualization & Analysis**  
-*Tech: **Tableau**, **R**, **Excel***
-- Developed charts and dashboards on electricity generation from various fuel sources.
-- Identified trends to improve decision-making in the energy sector.
-
-### **Business Analytics for Alexa Ltd.**  
-*Tech: **Python**, **Matplotlib**, **Seaborn***
-- Analyzed sales data to predict customer behaviour and future buying patterns.
-- Created models to optimize sales and marketing strategies.
-
-### **Diabetes Risk Prediction with Machine Learning**
-*Tech: **Python**, **Scikit-Learn**, **Seaborn***, **Matplotlib***, **Kaggle***, **Pandas***
-- Predicted diabetes risk using classification models (Logistic Regression, Decision Trees).
-- Cleaned and prepared data and visualized model performance.
+- **Astrophysics & Space Science:** Passionate about stargazing, space exploration, and understanding the universe.
+- **Data Science & Programming:** Exploring how data can be used in space science and scientific research.
+- **Science Fiction & Popular Science:** I love reading about space, quantum physics, and future technologies.
