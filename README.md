@@ -11,13 +11,13 @@ I am a final-year Creative Computing student with a strong foundation in softwar
 
 ## 🚀 Skills
 
-- SQL (SQL Server, MySQL, PostgreSQL)
-- NoSQL (Firebase, MongoDB)
-- Python (Pandas, NumPy, SciPy, Matplotlib, Flask)
-- JavaScript (p5.js, Express, ReactJS, React Native)
-- Visualisation (Tableau, Power BI)
-- Excel (VLookup, Conditional Formatting, Pivot Tables)
-- Operating Systems (macOS, Linux, Windows)
+- **SQL** (SQL Server, MySQL, PostgreSQL)
+- **NoSQL** (Firebase, MongoDB)
+- **Python** (Pandas, NumPy, SciPy, Matplotlib, Flask)
+- **JavaScript** (p5.js, Express, ReactJS, React Native)
+- **Visualisation** (Tableau, Power BI)
+- **Excel** (VLookup, Conditional Formatting, Pivot Tables)
+- **Operating Systems** (macOS, Linux, Windows)
 
 ---
 
