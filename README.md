@@ -1,33 +1,28 @@
 # Hi, I'm Alice Corry
-**Final Year Creative Computing Student | Aspiring Data Analyst & Space Enthusiast | Passionate about Technology, Data, and Space Science**
+**Final-Year Creative Computing Student | Specializing in Data Science & Analytics**
 
-I am a **final-year Creative Computing student** with strong **data analysis**, **programming**, and **software development**. I am experienced in using tools like **Python**, **R**, **SQL**, **Tableau**, and **Matplotlib** to solve problems and generate meaningful insights from data. While my academic focus has primarily been on computing, I have a deep personal interest in **space science**, **astrophysics**, and **astronomy**. I am excited to apply my technical expertise to **data science**, **space research**, or **software development** roles.
+I am a final-year Creative Computing student with a strong foundation in software development, data analysis, and database management. I aim to apply my technical skills and passion for data science to solve real-world problems, optimise systems, and contribute to cutting-edge research. I am excited about roles where I can use my Python programming experience and interest in data.
 
-📍 **Dublin, Ireland**  
-🔗 [My Linktree](https://linktr.ee/alicecorry)  
-🎓 **Creative Computing Student** at Dún Laoghaire Institute of Art, Design, and Technology  
-🎯 **Seeking Opportunities in:** Data Science, Software Development, or Space Science
+📍 **Dublin, Ireland**
+🔗 [My Linktree](https://linktr.ee/alicecorry)
+🎓 **Creative Computing Student** at Dún Laoghaire Institute of Art, Design, and Technology
 
 ---
 
 ## 🚀 Skills
 
-### 📊 Data & Software Skills
-- **Languages:** Python, R, SQL, JavaScript, C#
-- **Data Tools:** Tableau, Excel, Matplotlib, Seaborn
-- **Web Development:** React.js, Laravel, ASP.NET Core
-- **Machine Learning:** Scikit-Learn, Pandas
-- **Project Management:** Trello, Notion, Agile
-
-### 🌌 Space Science & Physics Interest
-- **Astronomy:** Basic knowledge of celestial bodies, stars, and galaxies.
-- **Physics:** Leaving Cert Physics knowledge, with a strong interest in astrophysics and space exploration.
-- **Scientific Tools:** Python (SciPy, NumPy), MATLAB (for simulations)
+- SQL (SQL Server, MySQL, PostgreSQL)
+- NoSQL (Firebase, MongoDB)
+- Python (Pandas, NumPy, SciPy, Matplotlib, Flask)
+- JavaScript (p5.js, Express, ReactJS, React Native)
+- Visualisation (Tableau, Power BI)
+- Excel (VLookup, Conditional Formatting, Pivot Tables)
+- Operating Systems (macOS, Linux, Windows)
 
 ---
 
 ## 🌟 Interests
 
-- **Astrophysics & Space Science:** Passionate about stargazing, space exploration, and understanding the universe.
-- **Data Science & Programming:** Exploring how data can be used in space science and scientific research.
-- **Science Fiction & Popular Science:** I love reading about space, quantum physics, and future technologies.
+- **Open-Source Contributions:** Passionate about contributing to open-source projects that make a difference in the community.
+- **Innovative Problem-Solving:** Enjoys tackling complex data problems and finding creative solutions.
+- **Continual Learning:** Dedicated to lifelong learning in data science and analytics.
