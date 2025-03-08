@@ -3,8 +3,8 @@
 
 I am a final-year Creative Computing student with a strong foundation in software development, data analysis, and database management. I aim to apply my technical skills and passion for data science to solve real-world problems, optimise systems, and contribute to cutting-edge research. I am excited about roles where I can use my Python programming experience and interest in data.
 
-📍 **Dublin, Ireland**
-🔗 [My Linktree](https://linktr.ee/alicecorry)
+📍 **Dublin, Ireland**    
+🔗 [My Linktree](https://linktr.ee/alicecorry)    
 🎓 **Creative Computing Student** at Dún Laoghaire Institute of Art, Design, and Technology
 
 ---
