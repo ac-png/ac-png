@@ -1,6 +1,8 @@
 # Alice Corry
 
-## Final-Year Creative Computing Student 📍 Dublin, Ireland
+## Final-Year Creative Computing Student
+
+📍 Dublin, Ireland
 
 [📧 Contact me](mailto:alicecorry@icloud.com) | [LinkedIn](https://linkedin.com/in/alice-corry) | [GitHub](https://github.com/ac-png)
 
