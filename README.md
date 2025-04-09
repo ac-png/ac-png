@@ -90,11 +90,13 @@
 
 ---
 
-## 🎮 Interests
+## ➕ Additional Experience
 
-- **Science & Astronomy**: I have a personal interest in space exploration and **astronomy**.
-- **Gaming**: I enjoy both playing and analyzing games to understand what makes them enjoyable.
-- **Health Technology**: I am passionate about how technology can improve healthcare.
+### **Vice Captain, Volleyball Team**
+**Santa Sabina Dominican College** | 09/2018 - 05/2019
+- Led practices and helped plan game strategies.
+- Acted as a link between coach and players.
+- Helped organise team events and build team spirit.
 
 ---
 
