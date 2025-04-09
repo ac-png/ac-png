@@ -1,6 +1,6 @@
-# Hello, I'm Alice Corry!
+# Alice Corry
 
-I'm a **Final-Year Creative Computing Student** based in **Dublin, Ireland**. I have a passion for blending **technology and creativity**. I specialize in **programming**, **web development**, and **data analysis**. I love working on projects that combine these skills to create innovative solutions.
+## Final-Year Creative Computing Student 📍 Dublin, Ireland
 
 [📧 Contact me](mailto:alicecorry@icloud.com) | [LinkedIn](https://linkedin.com/in/alice-corry) | [GitHub](https://github.com/ac-png)
 
