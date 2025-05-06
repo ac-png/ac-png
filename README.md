@@ -10,12 +10,18 @@
 
 ## 🧑‍🎓 Education
 
+### 🎓 **Astronomy for Beginners**  
+**Astronomy Ireland**  
+10/2025  
+- Enrolled in an upcoming beginners' astronomy course that will cover topics such as the night sky, the Sun and Moon, cosmology, black holes, and exoplanets.
+- Will build foundational knowledge to support future projects in scientific computing and space-related technologies.
+  
 ### 🎓 **B.Sc. [Hons] Creative Computing**  
 **Dún Laoghaire Institute of Art, Design and Technology**  
-2021 - Present  
-- Exploring how **technology and creativity** intersect.
-- Learning programming, web development, and data analysis.
-- Building **apps** and **websites** through hands-on projects.
+2021 - 05/2025  
+- Explored how **technology and creativity** intersect.
+- Learned programming, web development, and data analysis.
+- Built **apps** and **websites** through hands-on projects.
 
 ### 🎓 **QQI Certificate in Multimedia Production**  
 **Ballsbridge College of Further Education**  
@@ -35,7 +41,6 @@
 - **Cisco Networking Essentials** – Cisco Networking Academy
 - **Data Analyst Bootcamp** – Alex the Analyst (YouTube)
 - **IADT Student Enterprise Bootcamp** – Media Cube
-- **Scientific Computing** - freeCodeCamp
 
 ---
 
