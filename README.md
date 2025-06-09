@@ -1,6 +1,6 @@
 # Alice Corry
 
-## Final-Year Creative Computing Student
+## B.Sc. (Hons) in Creative Computing Graduate | Part-Time Sales Advisor at M&S
 
 📍 Dublin, Ireland
 
