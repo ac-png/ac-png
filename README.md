@@ -30,6 +30,7 @@
 **Marks & Spencer** | 06/2023 - Present  
 
 ### 🏕️ **Summer Camp Assistant** 
+**Dún Laoghaire Institute of Art, Design and Technology** | 06/2022 - 06/2023 
 
 ---
 
