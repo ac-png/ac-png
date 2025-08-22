@@ -1,6 +1,6 @@
 # Alice Corry
 
-## B.Sc. (Hons) in Creative Computing Graduate | Part-Time Sales Advisor at M&S
+## Web & Multimedia Designer | Creative Computing Graduate
 
 📍 Dublin, Ireland
 
