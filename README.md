@@ -1,7 +1,8 @@
-# Hi, I'm [Your Name]
+# Hi, I'm Alice Corry
 
-I'm interested in **JavaScript-based design and development**, **data analytics**, and building **practical tools that improve everyday workflows**.  
-Most of my projects focus on creating **functional systems for tracking, analysis, and organization**, combining JavaScript design, data science, and database design.
+I'm a **recent Creative Computing graduate from IADT** with an interest in **JavaScript-based design and development**, **data analytics**, and building **practical tools that improve everyday workflows**.
+
+The projects below are **current and planned projects** that I intend to build as part of developing my portfolio.
 
 ---
 
