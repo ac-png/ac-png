@@ -10,6 +10,7 @@ The projects below are **current and planned projects** that I intend to build a
 
 - **📱 Mobile App for Tracking Physiotherapy Exercises** – A mobile app designed to help users log, track, and stay consistent with prescribed physiotherapy routines.
 - **💼 Career Progression Website** – A personal productivity website for tracking job applications, certifications, and online courses in one place.
+- **🌐 Personal CV & Portfolio Website** – A responsive personal website showcasing my projects, technical skills, and experience, designed to present my work clearly to employers and collaborators.
 
 ---
 
