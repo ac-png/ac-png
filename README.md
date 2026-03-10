@@ -1,45 +1,24 @@
-# Alice Corry
+# Hi, I'm Alice
 
-## Web & Multimedia Designer | Creative Computing Graduate
-
-📍 Dublin, Ireland
-
-[📧 Contact me](mailto:alicecorry@icloud.com) | [LinkedIn](https://linkedin.com/in/alice-corry) | [GitHub](https://github.com/ac-png)
+I'm interested in **JavaScript-based design and development, data analytics, and practical tools that improve everyday workflows**.  
+Most of my projects focus on **building functional systems for tracking, analysis, and organization**, combining JavaScript design, data science, and database design.
 
 ---
 
-## 🧑‍🎓 Education
-  
-### 🎓 **B.Sc. [Hons] Creative Computing**  
-**Dún Laoghaire Institute of Art, Design and Technology**  
-2021 - 2025  
+## Design & Development
 
-### 🎓 **NFQ Level 5, Web Design & Multimedia**  
-**Ballsbridge College of Further Education**  
-2020 - 2021  
-
-### 🎓 **Leaving Certificate**  
-**Santa Sabina Dominican College**
-2014 - 2020
+- **Mobile App for Tracking Physiotherapy Exercises** – A mobile app designed to help users log, track, and stay consistent with prescribed physiotherapy routines.
+- **Career Progression Website** – A personal productivity website for tracking job applications, certifications, and online courses in one place.
 
 ---
 
-## 💼 Experience
+## Data Analytics & Science
 
-### 🏢 **Hospitality Sales Advisor**  
-**Marks & Spencer** | 06/2023 - Present  
-
-### 🏕️ **Summer Camp Assistant** 
-**Dún Laoghaire Institute of Art, Design and Technology** | 06/2022 - 06/2023 
+- **Python Astronomy Observation Planner** – A Python tool that calculates optimal viewing times for planets and constellations based on location and date.
+- **R Environmental Data Analysis** – An R project analyzing environmental datasets (such as temperature, rainfall, or air quality) to explore trends and statistical patterns.
 
 ---
 
-## 📄 References
+## Databases & Clerical
 
-Available upon request.
-
----
-
-## 🌍 Find Me Elsewhere
-- [LinkedIn](https://linkedin.com/in/alice-corry)
-- [Linktree](https://linktr.ee/alicecorry)
+- **SQL Office Task & Document Tracker** – A relational database designed to manage clerical tasks, document records, and administrative workflows.
