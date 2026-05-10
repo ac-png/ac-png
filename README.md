@@ -1,6 +1,6 @@
 # Hi there, I'm Alice Corry
 
-## Organised Graduate | Administration & Data Management
+**Organised Graduate | Administration & Data Management**
 
 Welcome to my GitHub! I’m a detail-focused and proactive graduate, passionate about turning data into insights and building practical digital solutions.
 
