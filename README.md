@@ -71,7 +71,7 @@ A cross-platform inventory system designed to **solve real-world challenges in-s
 
 ## 🎓 Education
 **B.Sc. (Hons) Creative Computing** – Dún Laoghaire Institute of Art, Design and Technology (2021–2025)  
-*Second Class Honours, Grade 1 (H2.1)*
+*Grade: Second Class Honours, Grade 1 (H2.1)*
 
 **QQI Level 5 Certificate – Web Design & Multimedia** – Ballsbridge College of Further Education (2020–2021)  
 *Grade: Distinction*
