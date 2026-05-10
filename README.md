@@ -53,7 +53,7 @@ I’m friendly, reliable, and always eager to learn—whether it’s exploring a
 ### **EcoTrack – Interactive Environmental Data Platform**   
 **Technologies:** Neo4j, Django, R, Tableau  
 
-A platform to help organizations like municipalities, universities, and NGOs **understand and act on environmental data**. It collects public datasets and IoT sensor data to track metrics like air quality, energy usage, water consumption, and recycling rates, turning complex data into actionable insights.  
+A platform that helps organisations track and understand key environmental data, like air quality, energy use, water use, and recycling. It gathers information from multiple sources and presents it clearly, so users can easily spot trends, make comparisons, and take action based on the insights. 
 
 **Key features:**  
 - Neo4j graph database linking locations, time periods, and resource usage to reveal patterns  
