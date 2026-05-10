@@ -50,28 +50,44 @@ I’m friendly, reliable, and always eager to learn—whether it’s exploring a
 
 ## 📂 Projects
 
-### **EcoTrack – Interactive Environmental Data Platform**
-A platform to help organizations like municipalities, universities, and NGOs **track, analyze, and act on environmental data**.  
+### **EcoTrack – Interactive Environmental Data Platform**   
+**Technologies:** Neo4j, Django, R, Tableau  
 
-- Collected data from public datasets and IoT sensors for air quality, energy usage, water consumption, and recycling rates.  
-- Backend: **Neo4j graph database** linking locations, resources, and time periods.  
-- Statistical analysis with **R** to identify trends and correlations.  
-- Full-stack web app built with **Django** for real-time exploration, filtering, and interaction.  
-- **Tableau dashboards** for polished, interactive visualizations.  
+A platform to help organizations like municipalities, universities, and NGOs **understand and act on environmental data**. It collects public datasets and IoT sensor data to track metrics like air quality, energy usage, water consumption, and recycling rates, turning complex data into actionable insights.  
 
-[View Project](#) *(Add link if hosted or in repo)*
+**Key features:**  
+- Neo4j graph database linking locations, time periods, and resource usage to reveal patterns  
+- Statistical analysis with **R** to uncover trends and correlations  
+- Full **Django web app** for real-time data exploration, filtering, and interaction  
+- **Tableau dashboards** for polished, interactive visual summaries  
 
 ---
 
-### **GradPath – Graduate Experience & Career Outcomes Insight**
-A data-driven project exploring post-college graduate outcomes across courses and institutions.  
+### **GradPath – Graduate Experience & Career Outcomes Insight**  
+**Technologies:** Google Forms, Google Sheets, Google Analytics  
 
-- **Google Forms** to collect graduate experiences and employment paths.  
-- Data cleaning and organization with **Google Sheets**.  
-- **Google Analytics** to visualize trends in career paths, satisfaction, and further studies.  
-- Goal: Provide a **realistic, long-term view** of graduate experiences beyond single courses or cohorts.  
+A data-driven project exploring **graduate outcomes across courses and institutions**, inspired by my own Creative Computing journey. Collects responses via Google Forms and analyses trends in career paths, further studies, and satisfaction.  
 
-[View Project](#) *(Add link if hosted or in repo)*
+**Key features:**  
+- Google Forms for gathering graduate experiences  
+- Google Sheets for cleaning, organising, and preparing data  
+- **Google Analytics** for trend analysis and visualisation  
+- Provides a **long-term, realistic view** of graduate outcomes beyond single courses or cohorts  
+
+---
+
+### **SmartStock – Inventory Management & Stock Tracking System**  
+**Technologies:** React, React Native, ASP.NET Web API, PostgreSQL  
+
+A cross-platform inventory system designed to **solve real-world challenges in-store**, inspired by my experience at Marks & Spencer. Allows staff to search products and instantly see **exact in-store locations** and stock levels.  
+
+**Key features:**  
+- Search products with **exact in-store location results** (e.g., Hospitality → Espresso Bar → Ground Floor)  
+- Clear breakdown of stock locations across departments and areas  
+- Real-time stock level updates via web and mobile apps  
+- Track stock movement and delivery, with low-stock alerts for managers  
+- Automated checklists for multiple low-stock items to support ordering  
+- Backend powered by **ASP.NET** with **PostgreSQL** for structured inventory tracking
 
 ---
 
