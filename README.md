@@ -85,6 +85,6 @@ A data-driven project exploring post-college graduate outcomes across courses an
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: [Alice Corry](https://linkedin.com/in/alicecorry)
-- GitHub: [AliceCorry](https://github.com/AliceCorry)
-- Email: alicecorry@icloud.com
+- [LinkedIn](https://linkedin.com/in/alicecorry)
+- [GitHub](https://github.com/ac-png)
+- [Email](mailto:alicecorry@icloud.com)
