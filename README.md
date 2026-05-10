@@ -16,35 +16,16 @@ I’m friendly, reliable, and always eager to learn—whether it’s exploring a
 ## 💻 Skills & Expertise
 
 ### Administration & Office Support
-- Data entry  
-- Filing & document management (organised and easy to retrieve)  
-- Email handling  
-- Appointment coordination  
-- Records organisation  
-- General clerical support  
-- GDPR-aware handling of information (data confidentiality and privacy)  
+Data entry • Filing & document management (organised and easy to retrieve) • Email handling • Appointment coordination • Records organisation • General clerical support • GDPR-aware handling of information (data confidentiality and privacy)
 
 ### IT & Data Skills
-- Microsoft Excel (formulas, reporting, data organisation)  
-- Microsoft Word  
-- Google Workspace  
-- Basic IT troubleshooting (system support and issue resolution)  
+Microsoft Excel (formulas, reporting, data organisation) • Microsoft Word • Google Workspace • Basic IT troubleshooting (system support and issue resolution)
 
 ### Data Management & Analytics
-- Google Analytics (tracking and reporting)  
-- Tableau (dashboards and visual reporting)  
-- SQL (database querying and management)  
-- NoSQL (MongoDB, Firebase – flexible data handling)  
-- Data cleaning and analysis (turning raw data into usable insights)  
+Google Analytics (tracking and reporting) • Tableau (dashboards and visual reporting) • SQL (database querying and management) • NoSQL (MongoDB, Firebase – flexible data handling) • Data cleaning and analysis (turning raw data into usable insights)
 
 ### Professional Skills
-- Communication  
-- Customer service  
-- Time management  
-- Attention to detail  
-- Teamwork  
-- Problem-solving  
-- Ability to work under pressure  
+Communication • Customer service • Time management • Attention to detail • Teamwork • Problem-solving • Ability to work under pressure 
 
 ---
 
