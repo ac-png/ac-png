@@ -1,15 +1,14 @@
 # Hi there, I'm Alice Corry
 
-**She/Her | Organised Graduate | Administration & Data Management | Creative Computing BSc**
+## Organised Graduate | Administration & Data Management
 
-Welcome to my GitHub! I’m a detail-focused and proactive graduate from **Dún Laoghaire Institute of Art, Design and Technology**, passionate about turning data into insights and building practical digital solutions.
+Welcome to my GitHub! I’m a detail-focused and proactive graduate, passionate about turning data into insights and building practical digital solutions.
 
 ---
 
 ## 🔹 About Me
-I thrive in environments where I can combine **technical skills, organization, and creativity** to solve real-world problems. I have experience in both **customer-focused roles** and **data-driven projects**, making me comfortable juggling multiple tasks, handling information accurately, and supporting teams efficiently.  
 
-I’m friendly, reliable, and always eager to learn—whether it’s exploring a new dataset, developing a web app, or diving into emerging tech trends.
+Organised and detail-focused graduate with a BSc in Creative Computing and experience working in busy customer service environments. Friendly, reliable, and quick to learn, with strong communication skills and a natural ability to stay organised and work well under pressure. Comfortable managing multiple tasks, handling information accurately, and supporting teams to keep day-to-day operations running smoothly. Brings a positive attitude, strong work ethic, and a genuine willingness to learn and grow within a professional environment.
 
 ---
 
@@ -78,6 +77,8 @@ A cross-platform inventory system designed to **solve real-world challenges in-s
 
 **QQI Level 5 Certificate – Web Design & Multimedia** – Ballsbridge College of Further Education (2020–2021)  
 *Grade: Distinction*
+
+**Leaving Certificate** – Santa Sabina Dominican College (2013–2020)
 
 ---
 
