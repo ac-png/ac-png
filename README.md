@@ -41,19 +41,6 @@ A platform that helps organisations track and understand key environmental data,
 
 ---
 
-### **GradPath – Graduate Experience & Career Outcomes Insight**  
-**Technologies:** Google Forms, Google Sheets, Google Analytics  
-
-A data-driven project exploring **graduate outcomes across courses and institutions**, inspired by my own Creative Computing journey. Collects responses via Google Forms and analyses trends in career paths, further studies, and satisfaction.  
-
-**Key features:**  
-- Google Forms for gathering graduate experiences  
-- Google Sheets for cleaning, organising, and preparing data  
-- **Google Analytics** for trend analysis and visualisation  
-- Provides a **long-term, realistic view** of graduate outcomes beyond single courses or cohorts  
-
----
-
 ### **SmartStock – Inventory Management & Stock Tracking System**  
 **Technologies:** React, React Native, ASP.NET Web API, PostgreSQL  
 
