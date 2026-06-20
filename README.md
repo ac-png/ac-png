@@ -64,10 +64,3 @@ A cross-platform inventory system designed to **solve real-world challenges in-s
 *Grade: Distinction*
 
 **Leaving Certificate** – Santa Sabina Dominican College (2013–2020)
-
----
-
-## 📫 Connect with Me
-- [LinkedIn](https://linkedin.com/in/alicecorry)
-- [GitHub](https://github.com/ac-png)
-- [Email](mailto:alicecorry@icloud.com)
